@@ -1,3 +1,10 @@
+#######
+# File: Quiz6_drb160130.py
+# Author: Dorian Benitez (drb160130)
+# Date: 9/9/2020
+# Purpose: CS 4395.001 - Quiz 6 (Relationships between Words)
+#######
+
 import math
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.wsd import lesk
